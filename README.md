@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mina</h1>
-<h3 align="center">後端IT工程師，Go經歷兩年 & 正在學習 React。</h3>
+<h3 align="center">後端軟體工程師，Go經歷三年 & 正在學習前端技術。</h3>
 
 - 🌱 I’m currently learning **Golang,React,Python**
 
