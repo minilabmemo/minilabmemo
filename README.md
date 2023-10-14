@@ -7,8 +7,14 @@
 
 - 📫 How to reach me **minilabmemo@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Websites:</h3> 
 <p align="left">
+  <a href="https://minilabmemo.gothub.io" target="blank"><img align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hexo.svg" alt="minilabmemo" height="30"
+      width="40" /></a>
+   <a href="https://fb.com/minilabmemo](https://medium.com/@mini.lab.memo" target="blank"><img align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="minilabmemo" height="30"
+      width="40" /></a>
   <a href="https://fb.com/minilabmemo" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="minilabmemo" height="30"
       width="40" /></a>
