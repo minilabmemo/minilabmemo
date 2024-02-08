@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to minilabmemo</h1>
 <h3 align="center">後端軟體工程師，Go經歷三年 & 正在學習前端技術。</h3>
 
-- 🌱 I’m currently learning **Golang,React,Python**
+- 🌱 I’m currently learning **Golang,React,Vue**
 
 - 📝 I regularly write articles on [https://minilabmemo.github.io/](https://minilabmemo.github.io/)
 
