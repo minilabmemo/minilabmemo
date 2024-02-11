@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, Welcome to minilabmemo</h1>
-<h3 align="center">後端軟體工程師，Go 經歷三年，正在學習前端技術。</h3>
+
+ <img
+      src="https://github.com/minilabmemo/minilabmemo/blob/main/pixel-speech-bubble.gif"
+      alt="hi" width="350" height="80" />
+
+<h3 align="left">後端軟體工程師，Go 經歷三年，正在學習前端技術。</h3>
 
 - 🌱 I’m currently learning **Golang, React, Vue**
 
