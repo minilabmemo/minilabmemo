@@ -1,29 +1,9 @@
 <h1 align="center">Hi 👋, Welcome to minilabmemo</h1>
 <h3 align="center">後端軟體工程師，Go經歷三年 & 正在學習前端技術。</h3>
 
-- 🌱 I’m currently learning **Golang,React,Vue**
-
-- 📝 I regularly write articles on [https://minilabmemo.github.io/](https://minilabmemo.github.io/)
+- 🌱 I’m currently learning **Golang, React, Vue**
 
 - 📫 How to reach me **minilabmemo@gmail.com**
-
-<h3 align="left">Websites:</h3> 
-<p align="left">
-  <a href="https://minilabmemo.github.io" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hexo.svg" alt="minilabmemo" height="30"
-      width="40" /></a>
-   <a href="https://medium.com/@mini.lab.memo" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="minilabmemo" height="30"
-      width="40" /></a>
-  <a href="https://fb.com/minilabmemo" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="minilabmemo" height="30"
-      width="40" /></a>
-  <a href="https://instagram.com/minilab_memo" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="minilabmemo" height="30"
-      width="40" /></a>
-
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
