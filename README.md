@@ -8,7 +8,7 @@
 
 <hr>
 
-- 👋 My Profile & works : <a href="https://minilabmemo.github.io/f2e-boot-vite/#/lab/about" target="_blank"> My Profile </a> <br>
+- 👋 My Profile & works : <a href="https://minilabmemo.github.io/fe-bootstrap-starter/" target="_blank"> My Profile </a> <br>
 
 - 🌟 I’m currently learning **Golang, React, Vue**
   
